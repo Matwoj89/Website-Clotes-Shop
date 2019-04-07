@@ -1,0 +1,30 @@
+c:\users\mat\documents\visual studio 2013\Projects\Strona\Strona\bin\Strona.dll.config
+c:\users\mat\documents\visual studio 2013\Projects\Strona\Strona\bin\Strona.dll
+c:\users\mat\documents\visual studio 2013\Projects\Strona\Strona\bin\Strona.pdb
+c:\users\mat\documents\visual studio 2013\Projects\Strona\Strona\obj\Debug\Strona.csprojResolveAssemblyReference.cache
+c:\users\mat\documents\visual studio 2013\Projects\Strona\Strona\obj\Debug\Strona.dll
+c:\users\mat\documents\visual studio 2013\Projects\Strona\Strona\obj\Debug\Strona.pdb
+C:\Users\Bartosz\Desktop\Strona\Strona\bin\Strona.dll.config
+C:\Users\Bartosz\Desktop\Strona\Strona\bin\Strona.dll
+C:\Users\Bartosz\Desktop\Strona\Strona\bin\Strona.pdb
+C:\Users\Bartosz\Desktop\Strona\Strona\obj\Debug\Strona.csprojResolveAssemblyReference.cache
+C:\Users\Bartosz\Desktop\Strona\Strona\obj\Debug\Strona.dll
+C:\Users\Bartosz\Desktop\Strona\Strona\obj\Debug\Strona.pdb
+F:\Strona\Strona\bin\Strona.dll
+F:\Strona\Strona\bin\Strona.pdb
+F:\Strona\Strona\obj\Debug\Strona.csprojResolveAssemblyReference.cache
+F:\Strona\Strona\obj\Debug\Strona.dll
+F:\Strona\Strona\obj\Debug\Strona.pdb
+C:\Users\Mat\Desktop\Strona\Strona\bin\Strona.dll.config
+C:\Users\Mat\Desktop\Strona\Strona\bin\Strona.dll
+C:\Users\Mat\Desktop\Strona\Strona\bin\Strona.pdb
+C:\Users\Mat\Desktop\Strona\Strona\obj\Debug\Strona.csprojResolveAssemblyReference.cache
+C:\Users\Mat\Desktop\Strona\Strona\obj\Debug\Strona.dll
+C:\Users\Mat\Desktop\Strona\Strona\obj\Debug\Strona.pdb
+C:\Users\user\Desktop\Nowy folder\Strona\Strona\bin\Strona.dll.config
+C:\Users\user\Desktop\Nowy folder\Strona\Strona\bin\Strona.dll
+C:\Users\user\Desktop\Nowy folder\Strona\Strona\bin\Strona.pdb
+C:\Users\user\Desktop\Nowy folder\Strona\Strona\obj\Debug\Strona.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Nowy folder\Strona\Strona\obj\Debug\Strona.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nowy folder\Strona\Strona\obj\Debug\Strona.dll
+C:\Users\user\Desktop\Nowy folder\Strona\Strona\obj\Debug\Strona.pdb
