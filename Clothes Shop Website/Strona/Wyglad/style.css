@@ -1,0 +1,37 @@
+div#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+div#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:100px;
+    width:100px;
+    float:left;
+    padding:5px; 
+}
+div#section {
+    width:1182px;
+    float:left;
+    padding:10px;
+    height: 65px;
+}
+div#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+body {background-color:azure}
+
+
+div#panel {
+    float:right;
+    
+}
+.Login{float: left;
+    
+}
